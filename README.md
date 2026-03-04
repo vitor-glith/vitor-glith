@@ -1,14 +1,9 @@
-## 💜 Olá, meu nome é Vitor
+## Olá, meu nome é Vitor
 
-Faça uma breve apresentação sobre você e a sua stack.
+Estou cursando desenvolvimento de sistemas no SENAi 
 
-🔭 estou cursando desenvolvimento de sistemas e lógica de programação
 
-💬 seja bem vindo e deixe sua mensagem
-
----
-
-## 🚀 Minhas Skills
+## 
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
