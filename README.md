@@ -1,6 +1,12 @@
 ## Olá, meu nome é Vitor Ferreira
 
-Estou cursando desenvolvimento de sistemas no SENAi 
+Estou cursando desenvolvimento de sistemas no SENAI, iniciando em moda e design gráfico.
+
+Insta
+
+linkedin
+
+https://vitor-glith.github.io/portfolio/#
 
 
 ## 
